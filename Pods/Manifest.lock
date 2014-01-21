@@ -1,0 +1,13 @@
+PODS:
+  - AFNetworking (0.9.1)
+  - SVProgressHUD (1.0)
+
+DEPENDENCIES:
+  - AFNetworking (= 0.9.1)
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  AFNetworking: 081ec3c1f4768c87ae79d69a96fcc9479e232e81
+  SVProgressHUD: 5e10939a296debf5fe5a5895eda9539b8b2114f1
+
+COCOAPODS: 0.29.0
